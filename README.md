@@ -20,10 +20,11 @@ You can create a public repository on your GitHub account and send the link to u
 
 # How to open?
 
-Open your SQL server, like XAMPP Control Panel, WampServer or MAMP. Start the Apache mode and open the **GuruTest** folder, cloning or using an localhost.
-After opened, go to the search bar and try the links below:
-*localhost:8000*
+Open your SQL server, like XAMPP Control Panel, WampServer or MAMP. Start the Apache mode and open the **GuruTest** folder, cloning or unziping it and use the comand **php spark serve** to start the Codeigniter controller
+After opened, go to the search bar and try the link below:
 *localhost:8080*
+
+Or even Ctrl + rightclick at the link on the terminal to open it.
 
 Want it better? try put **/gurutest** and enjoy it. Thank you <3
 
